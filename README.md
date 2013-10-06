@@ -1,4 +1,0 @@
-scketckbook
-===========
-
-Processing sketchbook
